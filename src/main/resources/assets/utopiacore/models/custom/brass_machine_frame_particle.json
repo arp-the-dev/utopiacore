@@ -1,0 +1,6 @@
+{
+  "parent": "utopiacore:displaysettings/default_machine_frame",
+  "textures": {
+    "particle": "utopiacore:block/brass_machine_frame"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "utopiacore:displaysettings/default_machine_frame",
+  "textures": {
+    "particle": "utopiacore:block/industrial_iron_machine_frame"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "utopiacore:custom/bronze_machine_frame_particle"
+    },
+    "facing=east": {
+      "model": "utopiacore:custom/bronze_machine_frame_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "utopiacore:custom/bronze_machine_frame_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "utopiacore:custom/bronze_machine_frame_particle",
+      "y": 270
+    }
+  }
+}

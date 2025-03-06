@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "utopiacore:steel_machine_frame",
+    "utopiacore:industrial_iron_machine_frame",
+    "utopiacore:bronze_machine_frame",
+    "utopiacore:brass_machine_frame",
+    "utopiacore:copper_machine_frame",
+    "utopiacore:andesite_machine_frame",
+    "utopiacore:creative_machine_frame"
+  ]
+}
